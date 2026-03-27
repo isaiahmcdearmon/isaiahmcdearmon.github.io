@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Projects | Isaiah McDearmon</title>
+</head>
+<body>
+
+<nav>
+  About Me |
+  Resume |
+  Projects |
+  Skills & Coursework</a>
+</nav>
+<hr>
+
+<h1>Projects</h1>
+
+<h3>DC‑DC Buck Converter Design</h3>
+<p>
+Designed and simulated a buck converter to step 24V down to 5V for embedded
+system applications.
+</p>
+<ul>
+  <li>Calculated component values</li>
+  <li>Simulated performance in LTspice</li>
+  <li>Analyzed efficiency and voltage ripple</li>
+</ul>
+
+<h3>Power Systems Analysis Project</h3>
+<p>
+Analyzed a simplified electrical power system using per‑unit modeling
+and fault analysis techniques.
+</p>
+
+</body>
+</html>
